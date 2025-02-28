@@ -1,6 +1,5 @@
 # Use the official OpenJDK 17 image as the base image
-# FROM openjdk:17-jdk-alpine
-FROM mcr.microsoft.com/openjdk/jdk:17-windowsservercore-ltsc2022
+FROM openjdk:17-jdk-alpine
 
 
 # Set metadata
